@@ -16,5 +16,6 @@ spec:
   values:
     image:
       repository: kmpartner/podinfo
-      tag: 0.4.11
+      # tag: 0.4.11
+      tag: dev-bo7xsuqm
     replicaCount: 3

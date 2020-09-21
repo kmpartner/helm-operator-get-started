@@ -16,7 +16,8 @@ spec:
   values:
     image:
       repository: kmpartner/podinfo
-      tag: dev-hdtwcel9
+      # tag: dev-hdtwcel9
+      tag: dev-bo7xsuqm
     replicaCount: 1
     hpa:
       enabled: false
