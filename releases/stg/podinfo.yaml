@@ -17,7 +17,7 @@ spec:
     image:
       repository: kmpartner/podinfo
       # tag: stg-9ij63o4c
-      tag: dev-bo7xsuqm
+      tag: stg-luktnsnu
     replicaCount: 2
     hpa:
       enabled: true
